@@ -1,5 +1,5 @@
 {
-  "name": "apple-signin",
+  "name": "skylb-apple-signin",
   "version": "1.0.9",
   "description": "Node.JS wrapper around Sign In with Apple REST API",
   "scripts": {
