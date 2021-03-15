@@ -1,5 +1,5 @@
 {
-  "name": "skylb-apple-signin",
+  "name": "@sociable/skylb-apple-signin",
   "version": "1.0.9",
   "description": "Node.JS wrapper around Sign In with Apple REST API",
   "scripts": {
@@ -13,11 +13,7 @@
     "node",
     "authentication"
   ],
-  "author": {
-    "name": "Artem Efremov",
-    "email": "efremov.artserg@gmail.com",
-    "url": "https://gotechmakers.com"
-  },
+  "author": "Artem Efremov <efremov.artserg@gmail.com> (https://gotechmakers.com)",
   "repository": {
     "type": "git",
     "url": "git://github.com/Techofficer/node-apple-signin.git"
@@ -43,5 +39,6 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.17.3"
-  }
+  },
+  "homepage": "https://github.com/Techofficer/node-apple-signin#readme"
 }
